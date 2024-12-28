@@ -50,3 +50,8 @@ phpcs.xml
 dist/
 dist-product/
 **/img
+
+
+
+# Uploads
+/wp-content/uploads/
